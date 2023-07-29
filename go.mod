@@ -4,7 +4,7 @@ go 1.20
 
 require (
 	github.com/GoesToEleven/puppy v1.3.0
-	github.com/sagivO2150/puppy v0.0.0-20230723025038-0aeb126e9054
+	github.com/sagivO2150/puppy v1.4.0
 	golang.org/x/exp v0.0.0-20230522175609-2e198f4a06a1
 	golang.org/x/sync v0.2.0
 )
